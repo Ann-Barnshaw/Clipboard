@@ -1,0 +1,36 @@
+body {
+    color: hsl(210, 10%, 33%);
+}
+.ios {
+    width: 100px;
+    padding: 4px 0px;
+    border-radius: 20px;
+    background-color:hsl(171, 66%, 44%);
+    border: 2px solid  hsl(171, 66%, 44%);
+}
+a {
+    font-size: 9px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+.mac {
+    width: 100px;
+    padding: 4px 0px;
+    border-radius: 20px;
+    background-color:hsl(233, 100%, 69%);
+    border: 2px solid  hsl(233, 100%, 69%);
+}
+.wrapper {
+    width: 1440px;
+    margin: 0 auto;
+}
+.logo {
+    width: 60px;
+}
+.logo_img {
+    width: 80px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
