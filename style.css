@@ -123,30 +123,36 @@ justify-content: center;
     margin-top: 30px;
 }
 footer {
-    padding: 20px 50px;
-    background-color: lightgrey;
+    background-color:#efefef;
     align-content: center;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
 }
 li {
     list-style: none;
     line-height: 2;
 }
 .cont_f {
-    width: 1000px;
+    width: 1200px;
     display: flex;
     margin: 0 auto;
     gap: 30px;
-    margin-top: 40px;
-    margin-bottom: 40px;
 }
 .socialmedia_logos {
-    margin-left: 210px;
+    margin-left: 295px;
     height: 30px;
     width: 140px;
     text-align: center;
     margin-top: 45px;
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 20px;
     height: 25px;
+}
+.listing {
+    width: 185px;
+}
+p {
+color:#e2e2e2;
+font-weight: 600;
 }
