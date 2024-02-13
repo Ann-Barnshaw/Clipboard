@@ -93,15 +93,17 @@ justify-content: center;
     justify-content: center;
     gap: 20px;
 }
-.blacklist {
+.text_icon {
     width: 380px;
     text-align: center;
 }
-.text_snip {
-    width: 380px;
-    text-align: center;
+.company_logos {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    gap: 20px;
 }
-.preview {
+.site_logo {
     width: 380px;
     text-align: center;
 }
